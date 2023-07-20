@@ -1,6 +1,11 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { Text, View } from 'react-native';
 
 const App = () => {
-
+    return (
+      <View>
+        <Text>Test</Text>
+      </View>
+    );
 }
+
+export default App;
